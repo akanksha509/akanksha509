@@ -6,8 +6,6 @@ A dedicated **Full Stack Developer**.
   <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=FF9595&size=20&lines=Good+to+see+you+here!;Welcome+to+my+profile" />
 </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" /> </p>
-
 - 👯 I’m looking to collaborate on **interesting projects**
 - 📫 How to reach me: **akankshathakur2311@gmail.com**
 
