@@ -2,6 +2,8 @@
 
 A dedicated **Full Stack Developer**.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" /> </p>
+
 - 📫 How to reach me: **akankshathakur2311@gmail.com**
 
 ## Languages and Tools:
@@ -18,6 +20,15 @@ A dedicated **Full Stack Developer**.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+## About Me:
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=FF9595&size=20&lines=Good+to+see+you+here!;Welcome+to+my+profile" />
+</a>
+
+- 👯 I’m looking to collaborate on **interesting projects**
+
 
 
 <!--
