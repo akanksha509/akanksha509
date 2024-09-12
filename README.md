@@ -34,10 +34,6 @@ A dedicated **Full Stack Developer**.
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha509&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/648e9343779070ae6249078b?variant=dark)](https://roadmap.sh)
-
----
-[![](https://visitcount.itsvg.in/api?id=aryaman19&icon=0&color=9)](https://visitcount.itsvg.in)
 
 
 
