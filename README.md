@@ -30,7 +30,7 @@ A dedicated **Full Stack Developer**.
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-# 📊 Stats:
+## 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha509&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
